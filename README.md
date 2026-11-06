@@ -4,6 +4,8 @@ A personal dance portfolio website built with React, Vite and Material UI. It pr
 
 This is the React rewrite of my original [HTML/CSS/jQuery dance portfolio](https://github.com/FarisKarkelja/personal-dance-portfolio).
 
+> **Note:** Originally built in 2024 as a university project. Moved into its own repository in 2026 and kept as it was at the time.
+
 ## Tech Stack
 
 - React 18
@@ -48,11 +50,11 @@ Then open the address shown in the terminal (usually http://localhost:5173).
 
 Other scripts:
 
-| Command           | Description                          |
-| ----------------- | ------------------------------------ |
-| `npm run build`   | Production build into `dist/`        |
-| `npm run preview` | Serve the production build locally   |
-| `npm run lint`    | Run ESLint                           |
+| Command           | Description                        |
+| ----------------- | ---------------------------------- |
+| `npm run build`   | Production build into `dist/`      |
+| `npm run preview` | Serve the production build locally |
+| `npm run lint`    | Run ESLint                         |
 
 ## Note
 
